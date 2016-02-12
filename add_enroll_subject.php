@@ -51,7 +51,7 @@ if ($usid === 'subjectExists') {
 		'',
 		null,
 		null,
-		date("m/d/y"),
+		"01/01/2002",
 		''
 	);
 	echo '<p>'.$message.'</p>';
