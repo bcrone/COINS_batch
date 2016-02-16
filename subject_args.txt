@@ -1,0 +1,29 @@
+'stype' (subjectType): '3040' (GENE_POSITIVE), '3060' (GENE_NEGATIVE) <- need from Jeremy
+'agreestosharedata': ''
+'BirthDate': 'yyyy-mm-dd 00:00:00' <- need from Jeremy
+'site_id': 'xx' <- need from Jeremy
+'FirstName': 'DEFAULT'
+'MiddleName': ''
+'LastName': 'PHD-AS1-5xxxx' <- need from Jeremy
+'userEmail': ''
+'context': ''
+'subject_tag_id': ''
+'Gender': 'M/F' <- need from Jeremy
+'Line1': '500 Newton Road'
+'Line2': ''
+'City': 'Iowa City'
+'State': 'IA'
+'Zip': '52242'
+'Country': 'USA'
+'Notes': ''
+'Suffix': ''
+'userPwd': ''
+'first_name_at_birth': ''
+'middle_name_at_birth': ''
+'last_name_at_birth': ''
+'city_born_in': ''
+'study_id': '2239'
+
+SAMPLE CSV ROW
+stype,BirthDate,site_id,LastName,Gender
+'3040','1963-04-26 00:00:00','24','PHD-AS1-52831','F'
